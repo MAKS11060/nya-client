@@ -1,0 +1,8 @@
+{
+  "name": "nya-client",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/maks11060/nya-client",
+  "author": "maks11060 <maks11060@gmail.com>",
+  "license": "MIT"
+}
